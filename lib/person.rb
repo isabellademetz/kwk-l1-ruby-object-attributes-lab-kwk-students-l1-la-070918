@@ -16,4 +16,5 @@ end
     def job=(new_job)
       @job = "Singer"
     end
+  end
     
