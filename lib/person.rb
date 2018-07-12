@@ -1,3 +1,6 @@
 # person.rb
 class Person
-  def 
+  attr_accessor: name 
+  attr_accessor: job
+  def initializer 
+    
