@@ -4,3 +4,4 @@ class Person
   attr_accessor: job
   def initialize (name, job)
     
+    
