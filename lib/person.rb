@@ -8,14 +8,14 @@ class Person
   def name
     @name = name
 end
-    def name=(new_name)
-      @name = "Beyonce"
+    def name= "Beyonce"
+      @name = new_name
     end
     def job
-      @job = job
+      @job = "Singer"
     end
     def job=(new_job)
-      @job = "Singer"
+      @job = new_job
     end
   end
     
